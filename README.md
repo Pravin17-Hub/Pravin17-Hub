@@ -1,80 +1,60 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<!--                         PRAVIN R README                             -->
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=PRAVIN%20R&fontSize=72&fontColor=ffffff&fontAlignY=40&animation=fadeIn&color=0:000000,25:111827,50:312e81,75:4c1d95,100:000000&desc=FULL%20STACK%20DEVELOPER&descSize=20&descAlignY=63&descColor=c4b5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&section=header&text=PRAVIN%20R&fontSize=72&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&color=0:050505,25:180000,50:450000,75:8B0000,100:050505&desc=FULL%20STACK%20DEVELOPER&descAlignY=63&descSize=21&descColor=FF4D4D" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=19&duration=2600&pause=900&color=FFFFFF&center=true&vCenter=true&width=850&height=60&lines=I+build+things+that+solve+problems.;Full+Stack+%7C+AI+%7C+Product+Development;Turning+ideas+into+working+software.;Currently+exploring+Generative+AI+%26+LLMs."/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-`B.TECH — INFORMATION TECHNOLOGY`
-`FULL STACK DEVELOPER`
-`AI / ML EXPLORER`
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=FF3B3B&center=true&vCenter=true&width=850&height=55&lines=FULL+STACK+DEVELOPER;BUILDING+REAL+WORLD+APPLICATIONS;EXPLORING+ARTIFICIAL+INTELLIGENCE;GENERATIVE+AI+%7C+LLMs+%7C+SAAS;TURNING+IDEAS+INTO+WORKING+PRODUCTS"/>
 
 <br><br>
 
----
+<img src="https://img.shields.io/badge/B.TECH-INFORMATION%20TECHNOLOGY-8B0000?style=for-the-badge&labelColor=0A0A0A"/>
 
-<div align="center">
+<img src="https://img.shields.io/badge/ROLE-FULL%20STACK%20DEVELOPER-D00000?style=for-the-badge&labelColor=0A0A0A"/>
 
-## `HELLO, WORLD.`
+<img src="https://img.shields.io/badge/FOCUS-AI%20%26%20WEB-FF1A1A?style=for-the-badge&labelColor=0A0A0A"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3200&pause=1000&color=8B5CF6&center=true&vCenter=true&width=650&lines=Loading+developer.profile...;Initializing+ideas...;Connecting+technology...;Ready+to+build."/>
+<br><br>
 
-</div>
+<a href="https://github.com/Pravin17-Hub">
+<img src="https://img.shields.io/badge/GITHUB-PRAVIN17--HUB-111111?style=for-the-badge&logo=github&logoColor=FF3333"/>
+</a>
 
-I'm **Pravin R**, a B.Tech Information Technology student and Full Stack Developer.
+<a href="https://www.linkedin.com/in/pravinweb">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-111111?style=for-the-badge&logo=linkedin&logoColor=FF3333"/>
+</a>
 
-I build web applications, experiment with AI technologies and work on products that move beyond simple academic demonstrations.
-
-My current direction sits at the intersection of:
-
-**Full Stack Development · Artificial Intelligence · Generative AI · SaaS**
-
----
-
-<br>
-
-<div align="center">
-
-## `01 / WHAT I DO`
+<a href="mailto:pravin17xy@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-111111?style=for-the-badge&logo=gmail&logoColor=FF3333"/>
+</a>
 
 </div>
 
-<br>
-
-### `BUILD`
-
-Modern full-stack applications with clean interfaces, reliable backend systems and practical database architecture.
-
-### `EXPLORE`
-
-Artificial Intelligence, Machine Learning, Generative AI and Large Language Model applications.
-
-### `CREATE`
-
-Products that start as ideas and evolve into usable software.
-
 ---
-
-<br>
 
 <div align="center">
 
-## `02 / MY STACK`
+# 🔴 `INITIALIZING PRAVIN.EXE`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2200&pause=700&color=FF5555&center=true&vCenter=true&width=650&lines=Booting+developer.profile...;Loading+skills...;Loading+projects...;Loading+AI+experiments...;System+ready."/>
+
+</div>
+
+<br>
+
+> **B.Tech IT student. Full Stack Developer. Builder.**
+>
+> I build modern web applications and experiment with AI technologies to turn ideas into practical software products.
+
+Currently focused on:
+
+**Full Stack Development · AI/ML · Generative AI · LLM Applications · SaaS**
+
+---
+
+<div align="center">
+
+# 🔥 `THE STACK`
 
 <br>
 
@@ -82,35 +62,29 @@ Products that start as ideas and evolve into usable software.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&lines=Python+%2B+Java+%2B+JavaScript;React+%2B+Flask+%2B+Node.js;MySQL+%2B+MongoDB+%2B+Firebase;Git+%2B+GitHub+%2B+VS+Code"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2300&pause=700&color=FF3333&center=true&vCenter=true&width=700&lines=CODE+%E2%80%A2+DESIGN+%E2%80%A2+BACKEND+%E2%80%A2+DATABASE;PYTHON+%E2%80%A2+JAVA+%E2%80%A2+JAVASCRIPT;REACT+%E2%80%A2+FLASK+%E2%80%A2+NODE.JS;MYSQL+%E2%80%A2+MONGODB+%E2%80%A2+FIREBASE"/>
 
 </div>
 
 ---
 
-<br>
-
 <div align="center">
 
-## `03 / BUILDING NOW`
+# 🩸 `BUILDING IN THE DARK`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=7c3aed&section=header" width="70%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=FF4444&center=true&vCenter=true&width=750&lines=Ideas+don't+build+themselves.;Problems+need+solutions.;Solutions+need+software.;So+I+build."/>
 
 </div>
 
 <br>
 
-<div align="center">
+## 🔻 ViyoraResumes
 
-### ViyoraResumes
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&lines=AI-Powered+Resume+Platform;Product+Development;SaaS+%2B+Artificial+Intelligence"/>
-
-</div>
+**AI-Powered Resume Platform**
 
 ViyoraResumes is an AI-powered resume platform being developed under **Viyora Technologies**.
 
-The objective is to make professional resume creation faster, simpler and more accessible by combining modern web development with AI.
+The product focuses on simplifying professional resume creation by combining AI capabilities with a modern web experience.
 
 `AI` `SaaS` `Full Stack` `Product Development`
 
@@ -118,87 +92,71 @@ The objective is to make professional resume creation faster, simpler and more a
 
 <div align="center">
 
-<a href="https://github.com/Pravin17-Hub">
-
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-7C3AED?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
+<img src="https://img.shields.io/badge/STATUS-ACTIVELY%20BUILDING-FF1A1A?style=for-the-badge&labelColor=090909"/>
 
 </div>
 
 ---
 
-<br>
+## 🔻 Smart India Hackathon
 
-<div align="center">
+Building technology solutions for real-world problem statements through **Smart India Hackathon**.
 
-## `04 / PROJECT LAB`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2500&pause=800&color=818CF8&center=true&vCenter=true&width=650&lines=Problem+%E2%86%92+Research+%E2%86%92+Prototype+%E2%86%92+Build;Real+problems.+Real+software."/>
-
-</div>
-
-<br>
-
-### `SMART INDIA HACKATHON`
-
-Developing technology-driven solutions for real-world problem statements with emphasis on **AI, software engineering and practical implementation**.
+The focus is on understanding the actual problem, designing a practical solution and implementing it using modern technologies.
 
 `AI/ML` `Full Stack` `Problem Solving` `System Design`
 
-<br>
+---
 
-### `AI / ML EXPERIMENTS`
+## 🔻 AI / ML Projects
 
-Exploring machine learning and intelligent systems through hands-on implementation and real application scenarios.
+Experimenting with machine learning and intelligent systems to understand how AI can become part of useful software products.
 
 `Python` `Machine Learning` `Deep Learning` `Generative AI`
 
-<br>
-
 ---
 
 <div align="center">
 
-## `05 / AI LAB`
+# 🧠 `AI CORE`
 
 <br>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2d4eG5pYjE0eHZ2NmV5c2QxZGN2NWR6bGZ4Y3F3cHFpN3J4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7qE1YN7aBOFPRw8E/giphy.gif" width="450"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2000&pause=600&color=FF2222&center=true&vCenter=true&width=800&height=120&lines=MACHINE+LEARNING;DEEP+LEARNING;GENERATIVE+AI;LARGE+LANGUAGE+MODELS;AI+AGENTS;AI+POWERED+APPLICATIONS"/>
 
-<br><br>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2200&pause=600&color=A78BFA&center=true&vCenter=true&width=800&lines=Machine+Learning;Generative+AI;Large+Language+Models;AI+Agents;AI-Powered+Web+Applications;Intelligent+SaaS"/>
+<img src="https://img.shields.io/badge/AI-EXPLORING-8B0000?style=for-the-badge&labelColor=080808"/>
+
+<img src="https://img.shields.io/badge/LLMs-LEARNING-A80000?style=for-the-badge&labelColor=080808"/>
+
+<img src="https://img.shields.io/badge/GENAI-BUILDING-D00000?style=for-the-badge&labelColor=080808"/>
 
 </div>
 
 ---
 
-<br>
-
 <div align="center">
 
-## `06 / DEVELOPMENT STATUS`
+# ⚙️ `CURRENT STATUS`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2200&pause=700&color=22C55E&center=true&vCenter=true&width=700&lines=%5B+ONLINE+%5D+Full+Stack+Development;%5B+ACTIVE+%5D+AI+%2F+ML;%5B+ACTIVE+%5D+Generative+AI;%5B+EXPLORING+%5D+LLMs;%5B+BUILDING+%5D+SaaS+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2200&pause=700&color=FF3333&center=true&vCenter=true&width=700&lines=%5B+ONLINE+%5D+FULL+STACK+DEVELOPMENT;%5B+ACTIVE+%5D+ARTIFICIAL+INTELLIGENCE;%5B+ACTIVE+%5D+GENERATIVE+AI;%5B+LEARNING+%5D+LARGE+LANGUAGE+MODELS;%5B+BUILDING+%5D+SAAS+PRODUCTS"/>
 
 </div>
 
 ---
 
-<br>
-
 <div align="center">
 
-## `07 / GITHUB`
+# 📡 `GITHUB SIGNAL`
 
 <br>
 
 <a href="https://github.com/Pravin17-Hub">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Pravin17-Hub&show_icons=true&hide_border=true&bg_color=00000000&title_color=C4B5FD&icon_color=8B5CF6&text_color=E5E7EB&rank_icon=github"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Pravin17-Hub&show_icons=true&hide_border=true&bg_color=090909&title_color=FF3333&icon_color=FF1A1A&text_color=EEEEEE&rank_icon=github"/>
 
 </a>
 
@@ -206,23 +164,21 @@ Exploring machine learning and intelligent systems through hands-on implementati
 
 <a href="https://github.com/Pravin17-Hub">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravin17-Hub&theme=transparent&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=9CA3AF&dates=6B7280"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pravin17-Hub&theme=dark&hide_border=true&background=090909&ring=FF2222&fire=FF4444&currStreakLabel=FF3333&sideLabels=CCCCCC&dates=777777"/>
 
 </a>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravin17-Hub&bg_color=00000000&color=C4B5FD&line=7C3AED&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pravin17-Hub&bg_color=090909&color=FF5555&line=CC0000&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-<br>
-
 <div align="center">
 
-## `08 / CONTRIBUTION MODE`
+# 🐍 `CODE EVERY DAY`
 
 <br>
 
@@ -232,36 +188,52 @@ Exploring machine learning and intelligent systems through hands-on implementati
 
 ---
 
-<br>
+<div align="center">
+
+# 🚀 `NEXT MISSION`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=FF3333&center=true&vCenter=true&width=750&height=100&lines=Build+better+applications.;Learn+deeper+AI.;Create+useful+products.;Turn+ideas+into+reality."/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/FULL%20STACK-FF1A1A?style=for-the-badge&labelColor=080808"/>
+
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-CC0000?style=for-the-badge&labelColor=080808"/>
+
+<img src="https://img.shields.io/badge/PRODUCT%20BUILDING-8B0000?style=for-the-badge&labelColor=080808"/>
+
+</div>
+
+---
 
 <div align="center">
 
-## `09 / LET'S BUILD`
+# `LET'S CONNECT`
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=900&color=C4B5FD&center=true&vCenter=true&width=750&lines=Have+an+idea%3F;Let's+turn+it+into+software.;Open+to+interesting+projects+%26+collaborations."/>
-
-<br><br>
-
 <a href="https://www.linkedin.com/in/pravinweb">
-<img src="https://img.shields.io/badge/LINKEDIN-111827?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LINKEDIN-FF1A1A?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A"/>
 </a>
 
- 
+  
 
 <a href="mailto:pravin17xy@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=F87171"/>
+<img src="https://img.shields.io/badge/EMAIL-FF1A1A?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A"/>
 </a>
 
- 
+  
 
 <a href="https://github.com/Pravin17-Hub">
-<img src="https://img.shields.io/badge/GITHUB-111827?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GITHUB-FF1A1A?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&color=0:4c1d95,30:312e81,65:111827,100:000000&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3000&pause=800&color=FF3333&center=true&vCenter=true&width=700&lines=BUILD+%7C+BREAK+%7C+FIX+%7C+REPEAT;KEEP+LEARNING.;KEEP+BUILDING."/>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:050505,25:8B0000,50:450000,75:180000,100:050505&animation=fadeIn"/>
 
 </div>
